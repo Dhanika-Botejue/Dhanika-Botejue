@@ -1,3 +1,1 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=Dhanika%20Botejue;
-CS50x%20Alumni;Always%20learning%20new%20things;
-Praying%20for%20UW%20SWE%20Admissions🙏;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1B607E&center=true&vCenter=true&width=435&lines=Dhanika+Botejue;CS50x+Alumni;Always+learning+new+things;Praying+for+UW+SWE+acceptance%F0%9F%99%8F)](https://git.io/typing-svg)
