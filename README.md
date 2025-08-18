@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1B607E&center=true&vCenter=true&width=435&lines=Dhanika+Botejue;CS50x+Alumni;Always+learning+new+things;Praying+for+UW+SWE+acceptance%F0%9F%99%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1B607E&vCenter=true&width=435&lines=Dhanika+Botejue;CS50x+Alumni;Always+learning+new+things;Praying+for+UW+acceptance%F0%9F%99%8F)](https://git.io/typing-svg)
