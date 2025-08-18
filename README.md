@@ -1,1 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&pause=1000&multiline=true&width=600&lines=Hello,+world;My+name+is+Dhanika+Botejue;I+attend+Cameron+Heights;I+am+a+CS50x+alumni)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com/?lines=Dhanika%20Botejue;
+CS50x%20Alumni;Always%20learning%20new%20things;
+Praying%20for%20UW%20SWE%20Admissions🙏;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
