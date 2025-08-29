@@ -1,7 +1,7 @@
 name: Generate Snake
 
 on:
-  # Run automatically once every day at midnight EST
+  # Run automatically once every day at midnight UTC
   schedule:
     - cron: "0 5 * * *"
 
@@ -16,10 +16,6 @@ jobs:
       contents: write
 
     steps:
-      # Checkout the repository
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
       # Generate the snake SVG files in dist/
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
@@ -29,17 +25,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push the generated files to the output branch
+      # Push the generated files to the `output` branch
       - name: Push snake to output branch
-        run: |
-          git config --global user.name "dhanikabotejue1"
-          git config --global user.email "dhanikabotejue1@users.noreply.github.com"
-          git clone https://x-access-token:${{ secrets.BOT_TOKEN }}@github.com/Dhanika-Botejue/Dhanika-Botejue.git temp-repo
-          cd temp-repo
-          git checkout -b output || git checkout output
-          cp -r ../dist/* . 2>/dev/null || echo "No files to copy"
-          git add .
-          git commit -m "Update snake animation" || echo "No changes to commit"
-          git push origin output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
