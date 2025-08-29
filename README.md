@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1B607E&vCenter=true&width=435&lines=Dhanika+Botejue;Grade+10+IB+Student;CS50x+Alumnus;Always+learning+new+things;Praying+for+UW+acceptance%F0%9F%99%8F)](https://git.io/typing-svg)
 
+## GitHub Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanika-Botejue/Dhanika-Botejue/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanika-Botejue/Dhanika-Botejue/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dhanika-Botejue/Dhanika-Botejue/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
