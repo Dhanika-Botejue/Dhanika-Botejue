@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1B607E&vCenter=true&width=435&lines=Dhanika+Botejue;Grade+10+IB+Student;CS50x+Alumnus;Always+learning+new+things;Praying+for+UW+acceptance%F0%9F%99%8F)](https://git.io/typing-svg)
 
+## GitHub Activity
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhanika-Botejue&custom_title=Dhanika's%20Activity%20Graph&bg_color=0D1117&color=1B607E&line=58a6ff&point=58a6ff&area=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 💻 Check out my [website](https://dhanikabotejue.vercel.app/)!
 
 📄 also take a look at my [resume](https://dhanikabotejue.vercel.app/assets/pdf/Dhanika-Botejue.pdf)!
@@ -16,3 +19,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+
