@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=1B607E&vCenter=true&width=435&lines=Dhanika+Botejue;Grade+10+IB+Student;CS50x+Alumnus;Always+learning+new+things;Praying+for+UW+acceptance%F0%9F%99%8F)](https://git.io/typing-svg)
 
-## 💻 [Check out my website!](https://dhanikabojute.vercel.app/)
+## 💻 [Check out my website!](https://dhanikabotejue.vercel.app/)
 
 [(📄 also take a look at my resume!)](https://dhanikabotejue.vercel.app/assets/pdf/Dhanika-Botejue.pdf)
 
