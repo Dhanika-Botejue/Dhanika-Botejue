@@ -4,9 +4,6 @@
 
 📄 also take a look at my [resume](https://dhanikabotejue.vercel.app/assets/pdf/Dhanika-Botejue.pdf)!
 
-## GitHub Activity
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhanika-Botejue&custom_title=Dhanika's%20Activity%20Graph&bg_color=0D1117&color=1B607E&line=58a6ff&point=58a6ff&area=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
